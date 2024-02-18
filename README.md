@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Ozziloscope
+- 👀 I’m interested in learning, I just really like learning new things.
+- 🌱 I’m currently learning about IT Support, and Project Management. I'm attempting to shift out of a career in heavy duty automotive parts.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: This is actually my nick name from when I was a trucker. "Fun Fact".
