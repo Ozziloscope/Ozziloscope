@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ozziloscope
-- 👀 I’m interested in learning, I just really like learning new things.
-- 🌱 I’m currently learning about IT Support, and Project Management. I'm attempting to shift out of a career in heavy duty automotive parts.
+- 👀 I’m interested in learning, and Teaching. I'm going to start building a free repositiory/wiki here for people attempting to switch careers.
+- 🌱 I’m currently learning about IT Support, and Project Management. I've successfully shifted my career from Heavy-Duty Parts to Data Center Operations.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: This is actually my nick name from when I was a trucker. "Fun Fact".
